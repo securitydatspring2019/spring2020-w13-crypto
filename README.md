@@ -20,7 +20,7 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 - [:tv: What are certificates (15 min.)](https://www.youtube.com/watch?v=LRMBZhdFjDI&t=264s) (Covers more or less the same topics as the next video, I do however recomment both)
 - [:tv: What is PIK (watch the first 8 minutes)](https://www.youtube.com/watch?v=5OqgYSXWYQM&t=170s) 
 - [:book: Cryptographic Overview, Symmetric and Asymmetric Encryption, Diffie-Hellman Exchange, Digests and Hashes, Message Authentication code (MAC),Digital Signatures (20 min.)](https://www.zytrax.com/tech/survival/encryption.html#dhe)
-- :full_moon:[:book: Cipher Suites (6 min. skim only so you know what it is conceptually)](https://www.jscape.com/blog/cipher-suites) neccesary to understand parts of the Wireshark demo
+- :full_moon: [:book: Cipher Suites (6 min. skim only so you know what it is conceptually)](https://www.jscape.com/blog/cipher-suites) neccesary to understand parts of the Wireshark demo
 
 ### Exercises :memo:
 - [SSL Handshake](https://docs.google.com/document/d/13oD_h5fO9i1rIeQaiMxzG54w3q5dc0neL8nPGX2HEdw/edit?usp=sharing) We will do this together in the class
