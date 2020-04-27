@@ -4,11 +4,10 @@
 _This is going to be a pretty heavy week when it comes to theory. Most of the exercises will not involve code, but steps necessary to 
 - Symmetric Encryption
 - Asymmetric Encryption
-- Hashing and Hash Digests
+- Hashing and Hash Digests and :red_circle: MAC (Message Authentication Code)
 - Digital Signatures
 - Certificates
 - Certificate Authorities and Certificate Trust Hierarchies
-- :red_circle: MAC (Message Authentication Code)
 - :red_circle: Cipher Suites
 
 ## What to Install
