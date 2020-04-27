@@ -25,6 +25,7 @@ _This is going to be a pretty heavy day when it comes to theory. Most of the exe
 ## Exercises :memo:
 - [SSL Handshake](https://docs.google.com/document/d/13oD_h5fO9i1rIeQaiMxzG54w3q5dc0neL8nPGX2HEdw/edit?usp=sharing) We will do this together in the class
 - [Tomcat with SSL and preparing for the exam](https://docs.google.com/document/d/1pY6gbHgAzzMZshgwIhejSZ9ROtQy8dHacci0mdJvdcI/edit?usp=sharing) 
-
+- Hand-in for this lecture
+  Write down your own agenda, for how you would present the questions given for today. Has this been a hard day, leave out the parts you have found hardest. Remember you will only have 10-15 min for this part at the exam.
 
 
