@@ -10,7 +10,7 @@ _This is going to be a pretty heavy day when it comes to theory. Most of the exe
 - Certificates
 - Certificate Authorities and Certificate Trust Hierarchies
 - :full_moon: Cipher Suites
-- :red: Diffie Hellman Key Exchange
+- :red_circle: Diffie Hellman Key Exchange
 
 ## What to Install
 
@@ -22,6 +22,7 @@ _This is going to be a pretty heavy day when it comes to theory. Most of the exe
 - [:tv: What is PIK (watch the first 8 minutes)](https://www.youtube.com/watch?v=5OqgYSXWYQM&t=170s) 
 - [:book: Great Well Illustrated article covering](https://www.zytrax.com/tech/survival/encryption.html#dhe) Cryptographic Overview, Symmetric and Asymmetric Encryption, Diffie-Hellman Exchange (only skim text, but WATCH the video), Digests and Hashes, Message Authentication code (MAC),Digital Signatures (20 min.)
 - :full_moon: [:book: Cipher Suites (6 min. skim only so you know what it is conceptually)](https://www.jscape.com/blog/cipher-suites) neccesary to understand parts of the Wireshark demo
+- :red_cirle: [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
 
 ## Exercises :memo:
 - [SSL Handshake](https://docs.google.com/document/d/13oD_h5fO9i1rIeQaiMxzG54w3q5dc0neL8nPGX2HEdw/edit?usp=sharing) We will do this together in the class
