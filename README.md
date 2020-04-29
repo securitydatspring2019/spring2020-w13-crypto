@@ -9,7 +9,8 @@ _This is going to be a pretty heavy day when it comes to theory. Most of the exe
 - Digital Signatures
 - Certificates
 - Certificate Authorities and Certificate Trust Hierarchies
-- :red_circle: Cipher Suites
+- :full_moon: Cipher Suites
+- :red: Diffie Hellman Key Exchange
 
 ## What to Install
 
