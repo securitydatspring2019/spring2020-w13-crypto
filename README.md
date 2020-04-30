@@ -43,6 +43,6 @@ _This is going to be a pretty heavy day when it comes to theory. Most of the exe
   
 ## Hand-in link
 
-[Hand-in link (TBD)](#)
+[Hand-in link](https://docs.google.com/spreadsheets/d/1mtMxx2wJWiG10CCqT4-3AdZoK_p45imczJe9LC9ymJs/edit?usp=sharing)
 
 
