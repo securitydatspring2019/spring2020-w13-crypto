@@ -24,6 +24,9 @@ _This is going to be a pretty heavy day when it comes to theory. Most of the exe
 - :full_moon: [:book: Cipher Suites (6 min. skim only so you know what it is conceptually)](https://www.jscape.com/blog/cipher-suites) neccesary to understand parts of the Wireshark demo
 - :red_circle: [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
 
+## Slides
+[Slides for this lecture](https://docs.google.com/presentation/d/1dIj1VgAcpaXk9qMwXRYGovMW50UhwtgFutJ6Gkkgm48/edit?usp=sharing)
+
 ## Exercises :memo:
 - [SSL Handshake](https://docs.google.com/document/d/13oD_h5fO9i1rIeQaiMxzG54w3q5dc0neL8nPGX2HEdw/edit?usp=sharing) We will do this together in the class
 - [Tomcat with SSL and preparing for the exam](https://docs.google.com/document/d/1pY6gbHgAzzMZshgwIhejSZ9ROtQy8dHacci0mdJvdcI/edit?usp=sharing) 
