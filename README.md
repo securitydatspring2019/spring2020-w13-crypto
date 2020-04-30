@@ -1,4 +1,8 @@
 # Week-13-Crypto, SSL, Certificates and more
+
+## Zoom link til dagens lektion (ikke mit sædvanlige)
+https://cphbusiness.zoom.us/j/61359601337
+
 ## Thuersday April 30 th (08.30-12.00 for both classes).
 
 _This is going to be a pretty heavy day when it comes to theory. Most of the exercises will not involve code, but steps necessary to understand (conceptually) these terms:_
