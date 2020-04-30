@@ -38,6 +38,9 @@ _This is going to be a pretty heavy day when it comes to theory. Most of the exe
 
   Write down your own agenda, for how you would present the questions given for today. Has this been a hard day, leave out the parts you have found hardest. Remember you will only have 12-15 min. for this part at the exam.
   
+## Video af dagens lektion
+[video](https://youtu.be/oFmwHs45RY0)
+  
 ## Hand-in link
 
 [Hand-in link (TBD)](#)
